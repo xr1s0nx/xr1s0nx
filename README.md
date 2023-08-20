@@ -20,4 +20,6 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="redux" alt="redux" style="max-width: 100%;" width="40" height="40"></a>&nbsp;
 </div>
 <hr/>
-<img src="github-readme-stats-lilac-omega.vercel.app/api?username=xr1s0nx"/>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-lilac-omega.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
