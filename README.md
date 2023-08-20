@@ -21,5 +21,5 @@
 </div>
 <hr/>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-rsin.vercel.app/api/top-langs?username=xr1s0nx&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats-rsin.vercel.app/api/top-langs?username=xr1s0nx&show_icons=true&theme=radical&card_width=1000" />
 </a>
