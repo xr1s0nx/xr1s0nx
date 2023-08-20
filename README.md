@@ -20,4 +20,3 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="redux" alt="redux" style="max-width: 100%;" width="40" height="40"></a>&nbsp;
 </div>
 <hr/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
