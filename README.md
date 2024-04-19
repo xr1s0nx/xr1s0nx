@@ -5,7 +5,7 @@
   <li>Я больше года развиваюсь и совершенствую свои навыки как Frontend разработчик.</li>
   <li>Упор делаю на стек React, Redux, TS.</li>
   <li>Уверенные знания HTML, CSS и JS.</li>
-  <li>📫 Для связи со мной: <a dir="auto" href="https://t.me/xr1s0nx"><img target="_blank" style="width: 25px; height: 25px" src="https://media1.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=ecf05e47i6k01jrfk3ci31zhxu43wrmjuj2m34nnvkj6itgp&rid=giphy.gif&ct=s"/></a></li>
+  <li>📫 Для связи со мной: <a dir="auto" href="https://t.me/xrisonx"><img target="_blank" style="width: 25px; height: 25px" src="https://media1.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=ecf05e47i6k01jrfk3ci31zhxu43wrmjuj2m34nnvkj6itgp&rid=giphy.gif&ct=s"/></a></li>
 </ul>
 <hr/>
 <h3 dir="auto">💻 Технологии:</h3>
